@@ -1,0 +1,30 @@
+{
+  "pfizer-biontech": {
+    "cost": 20,
+    "vaccinated": 6
+  },
+  "astra-zeneca": {
+    "cost": 60,
+    "vaccinated": 8
+  },
+  "janssen": {
+    "cost": 30,
+    "vaccinated": 5
+  },
+  "moderna": {
+    "cost": 90,
+    "vaccinated": 7
+  },
+  "inovio": {
+    "cost": 40,
+    "vaccinated": 7
+  },
+  "johnson_johnson": {
+    "cost": 70,
+    "vaccinated": 9
+  },
+  "novavax": {
+    "cost": 50,
+    "vaccinated": 6
+  }
+}
